@@ -4,13 +4,13 @@ class Dog
   end
   
   def sit 
-    puts "THe Dog is sitting"
+    puts "The Dog is sitting"
   end
 end
 
 class Person 
   def talk 
-    puts "Hello World"
+    puts "Hello World!"
   end
   
   def walk 
